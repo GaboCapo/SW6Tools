@@ -1,0 +1,4 @@
+LinuxTerminalNotes
+
+Get Rights
+sudo chown -R $USER ./*
