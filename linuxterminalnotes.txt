@@ -1,4 +1,5 @@
-LinuxTerminalNotes
+**LinuxTerminalNotes**
 
-Get Rights
-sudo chown -R $USER ./*
+Get Rights for yourself (use carefully!) 
+
+    sudo chown -R $USER ./*
