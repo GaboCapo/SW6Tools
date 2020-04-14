@@ -10,3 +10,10 @@ After install the OS, I setup a tool called [timeshift](https://github.com/teeje
 Here you can find an tutorial for setup PHP on your Ubuntu Machine
 
 
+**Use Docker**
+for local development there is an Docker Setup.
+Make sure you change Owner after pull the development rep with:
+
+chown -R USERNAME:USERNAME /var/....development
+
+
