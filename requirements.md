@@ -9,6 +9,8 @@ After install the OS, I setup a tool called [timeshift](https://github.com/teeje
 [How to Install and Configure PHP 7.2 on Ubuntu 18.04](https://www.vultr.com/docs/configure-php-7-2-on-ubuntu-18-04)
 Here you can find an tutorial for setup PHP on your Ubuntu Machine
 
+https://thishosting.rocks/install-php-on-ubuntu/
+
 
 **Use Docker**
 for local development there is an Docker Setup.
