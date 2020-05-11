@@ -7,9 +7,13 @@ After install the OS, I setup a tool called [timeshift](https://github.com/teeje
 **PHP 7.2**
 
 [How to Install and Configure PHP 7.2 on Ubuntu 18.04](https://www.vultr.com/docs/configure-php-7-2-on-ubuntu-18-04)
-Here you can find an tutorial for setup PHP on your Ubuntu Machine
 
 https://thishosting.rocks/install-php-on-ubuntu/
+Here you can find an tutorial for setup PHP on your Ubuntu Machine
+here is for LinuxMint:
+[https://linux4one.com/how-to-install-php-7-2-on-linux-mint-19/](https://linux4one.com/how-to-install-php-7-2-on-linux-mint-19/)
+
+
 
 
 **Use Docker**
@@ -23,5 +27,5 @@ Here you can find an tutorial for install docker and docker compose on lm19:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTY1NTY2MF19
+eyJoaXN0b3J5IjpbLTc2MzEzNzk4MiwxMTg5NjU1NjYwXX0=
 -->
