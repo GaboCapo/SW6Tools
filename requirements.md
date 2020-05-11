@@ -18,4 +18,10 @@ Make sure you change Owner after pull the development rep with:
 
 chown -R USERNAME:USERNAME /var/....development
 
+Here you can find an tutorial for install docker and d
+[https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/](https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/)
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3NTA0ODc1Nl19
+-->
