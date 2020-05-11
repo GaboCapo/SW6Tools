@@ -16,12 +16,12 @@ https://thishosting.rocks/install-php-on-ubuntu/
 for local development there is an Docker Setup.
 Make sure you change Owner after pull the development rep with:
 
-chown -R USERNAME:USERNAME /var/....development
+`chown -R $USER:$USER /var/....developmen`t
 
-Here you can find an tutorial for install docker and d
+Here you can find an tutorial for install docker and docker compose on lm19:
 [https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/](https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTA0ODc1Nl19
+eyJoaXN0b3J5IjpbMTE4OTY1NTY2MF19
 -->
