@@ -30,8 +30,12 @@ Make sure you change Owner after pull the development rep with:
 Here you can find an tutorial for install docker and docker compose on lm19:
 [https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/](https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/)
 
+**PHPStorm**
+Is an good IDE for sw dev
+linux mint setup. [https://snapcraft.io/install/phpstorm/mint](https://snapcraft.io/install/phpstorm/mint)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NjgzODAwLC03NjMxMzc5ODIsMTE4OT
-Y1NTY2MF19
+eyJoaXN0b3J5IjpbMjAyNTQ1ODA2NSw2MTU2ODM4MDAsLTc2Mz
+EzNzk4MiwxMTg5NjU1NjYwXX0=
 -->
