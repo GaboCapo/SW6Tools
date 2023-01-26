@@ -35,6 +35,20 @@ Is an good IDE for sw dev
 linux mint setup. [https://snapcraft.io/install/phpstorm/mint](https://snapcraft.io/install/phpstorm/mint)
 
 
+---
+
+
+### linuxterminalnotes
+
+Get Rights for yourself (use carefully!) 
+
+    sudo chown -R $USER ./*
+
+
+
+
+---
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAyNTQ1ODA2NSw2MTU2ODM4MDAsLTc2Mz
 EzNzk4MiwxMTg5NjU1NjYwXX0=
