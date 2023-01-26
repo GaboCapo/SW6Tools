@@ -1,5 +1,5 @@
 SHOPWARE Developer Version
-
+```
        _
       | |
    ___| |__   ___  _ ____      ____ _ _ __ ___
@@ -81,3 +81,4 @@ docs:
  - docs:load-plugins                                      
  - docs:unit-plugins                                      
  - docs:update  
+```
